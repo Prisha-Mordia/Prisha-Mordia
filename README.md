@@ -17,6 +17,6 @@ I am Prisha Mordia, pursuing Bsc Computer Science from [BITS Pilani](https://www
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=prisha-mordia&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=prisha-mordia&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisha-mordia)
